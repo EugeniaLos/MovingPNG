@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\eugen\desktop\осисп2\winapi\movingpng\movingpng\main.cpp(8): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\eugen\desktop\осисп2\winapi\movingpng\movingpng\main.cpp(108): warning C4101: pt: неиспользованная локальная переменная
+  MovingPNG.vcxproj -> C:\Users\eugen\Desktop\ОСИСП2\WinAPI\MovingPNG\Debug\MovingPNG.exe
